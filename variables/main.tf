@@ -59,7 +59,7 @@ variable "myobject" {
   })
 
   default = {
-    name = "Raul"
+    name = "Raul Cabrera"
     port = [ 22, 78, 10 ]
   }
 }
